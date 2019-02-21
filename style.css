@@ -1,0 +1,49 @@
+.main {
+    background-color:rgb(57, 143, 110);
+    width: 100vw;
+    height: 100vh;
+}
+.quote-card {
+    min-width: 550px;
+    width: 550px;
+    height: auto;
+    background-color: white;
+    border-radius: 5px;
+    padding: 1rem;
+    display: inline-block;
+}
+.quote-text {
+    padding:1.5rem 0 0.5rem 0;
+    font-family: "Raleway", Helvetica, sans-serif;
+    color: rgb(57, 143, 110);
+    font-size: 1.75em;
+}
+.quote-author {
+    margin-bottom: 2rem;
+    color: rgb(57, 143, 110);
+}
+.quote-share div {
+    background-color: rgb(57, 143, 110);
+    padding: 0.5rem;
+    margin-right: 0.5rem;
+    border-radius: 3px;
+}
+.red {
+    border:1px solid red;
+}
+a {
+    padding:0.2rem;
+}
+i {
+    color: white;
+}
+.mybtn {
+    background-color:rgb(57, 143, 110);
+    padding: 0.5rem;
+    color: white;
+}
+.fa-quote-left {
+    background-color: white;
+    color: rgb(57, 143, 110);
+    font-size: 30px;
+}
