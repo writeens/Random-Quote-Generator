@@ -4,7 +4,6 @@
     height: 100vh;
 }
 .quote-card {
-    min-width: 550px;
     width: 550px;
     height: auto;
     background-color: white;
